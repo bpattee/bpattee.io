@@ -1,0 +1,36 @@
+.navbar-links {
+    float: right; 
+    list-style-type: none;
+    padding: 0;
+    background-color: white;
+    color: grey;
+    border-right:2px solid #bbb;
+    border-left: 2px solid #bbb;
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1 {
+    background-color: teal;
+    text-align: center;
+    width: 200px;
+    color: white;
+}
+h2{
+    color:teal;
+}
+active {
+    background-color: #4CAF50;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 8px;
+    float: left;
+    padding: 10px;
+}
+div {
+    padding: 5px;
+
+}

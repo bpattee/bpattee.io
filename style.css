@@ -1,0 +1,15 @@
+a:default{ 
+    background-color: black;
+}
+a:active {
+    background-color: green;
+}
+a:focus { 
+    background-color: yellow;
+}
+a:hover { 
+    background-color: blue;
+}
+a:visited {    
+    background-color: orange;
+}
